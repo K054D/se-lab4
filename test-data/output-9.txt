@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500 létrehozása
+SUCCESS  # <- TORPEDO (a másodlagos tárból sikeresen lő)
