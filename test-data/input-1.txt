@@ -1,0 +1,2 @@
+GT4500,10,0,10,0  # Mindkét tár tele van, hiba nélkül
+TORPEDO,SINGLE    # Első lövés, az elsődleges tárból kell mennie
