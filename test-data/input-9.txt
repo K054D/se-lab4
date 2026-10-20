@@ -1,0 +1,2 @@
+GT4500,0,0,10,0  # Az elsődleges tár üres (0), a másodlagosban van torpedó (10)
+TORPEDO,SINGLE   # Lövésteszt SINGLE módban

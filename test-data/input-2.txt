@@ -1,0 +1,3 @@
+GT4500,10,0,10,0  # Mindkét tár tele van
+TORPEDO,SINGLE    # Első lövés (elsődleges tárból lő)
+TORPEDO,SINGLE    # Második lövés (a másodlagos tárból lő)

@@ -1,0 +1,2 @@
+GT4500,10,1,10,0  # Az elsődleges tár hibaaránya > 0 (biztosan hibát dob)
+TORPEDO,SINGLE    # Első lövés a hibás elsődlegesből: el kell buknia, nem lő a másikból
