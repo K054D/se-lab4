@@ -1,0 +1,2 @@
+GT4500,0,0,10,0   # Elsődleges tele, másodlagos üres
+TORPEDO,ALL       # Csak az elsődleges lő, de a visszatérés így is SUCCESS
